@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'nandanvallamdasu'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_22D8222D3FE64465AB1595E80F2AA7D6 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7371CF0096A949D9A9C7676C3159512E }}
           package: .
